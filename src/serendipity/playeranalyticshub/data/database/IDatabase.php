@@ -29,7 +29,7 @@ interface IDatabase{
 
     public function getName() : string;
 
-    public function updatePlayerStatistic(Player $player, string $stats) : void;
+    public function updatePlayerStatistic(Player $player, string $stats, int $value = 1) : void;
 
     public function getAllPlayerStatistics(Player $player) : array;
 

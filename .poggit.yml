@@ -5,4 +5,9 @@ branches:
 projects:
   PlayerAnalyticsHub:
     path: ""
+    libs:
+      - src: poggit/libasynql/libasynql
+        version: ^4.2.0
+        branch: pm5
+
 ...
