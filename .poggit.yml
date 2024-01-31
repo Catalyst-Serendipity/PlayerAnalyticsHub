@@ -8,6 +8,6 @@ projects:
     libs:
       - src: poggit/libasynql/libasynql
         version: ^4.2.0
-        branch: pm5
+        branch: master
 
 ...
