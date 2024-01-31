@@ -1,0 +1,16 @@
+# Database
+database:
+  # The database type. "sqlite" are supported.
+  type: sqlite
+
+  # Edit these settings only if you choose "sqlite".
+  sqlite:
+    # The file name of the database in the plugin data folder.
+    # You can also put an absolute path here.
+    file: data.sqlite
+  # The maximum number of simultaneous SQL queries
+  # Recommended: 1 for sqlite.
+  worker-limit: 1
+
+# Number of player top statistics displayed
+limit: 10
