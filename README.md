@@ -1,6 +1,6 @@
-# Player Statistics API
+# PlayerAnalyticsHub
 
-The Player Statistics API provides methods for managing and retrieving player statistics within a Minecraft Bedrock server environment. This API integrates seamlessly with SQLite databases, allowing developers to efficiently store and query player data for various analytical purposes.
+PlayerAnalyticsHub provides methods for managing and retrieving player statistics within a Minecraft Bedrock server environment. This API integrates seamlessly with SQLite databases, allowing developers to efficiently store and query player data for various analytical purposes.
 
 ## Usage
 
